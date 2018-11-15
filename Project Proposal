@@ -1,0 +1,7 @@
+Create an App with the following features
+
+1. Retrieving data from Twitter, filter on certain topics
+2. Streaming the data using Flume or Kafka
+3. Analysis data using Spark and Impala
+4. Store data into Hbase
+5. Display data as charts in Cloudera Manager. 
